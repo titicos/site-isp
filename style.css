@@ -209,7 +209,7 @@ footer{
     border: unset solid 10px 10px rgb(165, 16, 16);
     margin-top: 100px;
     height: 20vh;
-    background-image: url("/img/pexels-fwstudio-164005.jpg");
+    background-image: url("img/pexels-fwstudio-164005.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
