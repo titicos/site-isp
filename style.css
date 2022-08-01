@@ -254,10 +254,15 @@ button{
     font-weight: 700;
 }
 
+footer{
+    color: white;
+}
+
 footer div{
     display: flex;
     list-style: none;
     gap: 50px;
+    color: white;
     
 }
 
